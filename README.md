@@ -9,7 +9,7 @@ Detect whether people wear mask in different situations (like classrooms, airpla
 - eating
 - drinking
 
-###Web application
+### Web application
 
 - Mask monitoring system
   - When people don't wear mask and also don't eat or drink, the system will product warning signal.
