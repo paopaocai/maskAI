@@ -30,4 +30,4 @@ Detect whether people wear mask in different situations.
 
 ## Predictions
 
-<img src="https://github.com/paopaocai/maskAI/blob/master/predictions.jpgg" width="200"/><br/>
+<img src="https://github.com/paopaocai/maskAI/blob/master/predictions.jpg" width="200"/><br/>
