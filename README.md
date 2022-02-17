@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-Detect whether people wear mask in different situations.
+Detect whether people wear mask in different situations (like classrooms, airplanes, etc.).
 - with mask
 - without mask
 - eating
